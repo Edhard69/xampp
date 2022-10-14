@@ -1,0 +1,10 @@
+.special-hr-left{
+    width: 95px !important;
+    float: left;
+    border: none;
+}
+.special-hr-right{
+    width: 91px !important;
+    float: right;
+    border: none;
+}
