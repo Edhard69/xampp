@@ -1,0 +1,36 @@
+body{
+	font-family: Arial;
+}
+
+h1{
+	text-align: center;
+}
+
+th, td {
+	width: 25%;
+	background-color: #2c3588;
+	color: white;
+	padding: 8px;
+}
+
+th{
+	color: #50a5b9;
+}
+
+.divBtn{
+	text-align: center;
+}
+
+.pagPrin{
+	background-color: lightgray;
+	border: darkgray 1px solid;
+	padding: 8px;
+	text-decoration: none;
+	color: black;
+}
+
+.pagPrin:hover{
+	background-color: gray;
+	text-decoration: none;
+	color: black;
+}
